@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "grpc": "^1.22.2",
+    "grpc": "^1.24.9",
     "pusher": "^2.2.1",
     "pusher-js": "^5.0.0",
     "react": "^16.8.6",
